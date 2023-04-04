@@ -1,10 +1,11 @@
-#ifndef HEADER_FILE
-#define HEADER_FILE
+#ifndef LISTS_H
+#define LISTS_H
 
 #include <stdlib.h>
 #include <stdio.h>
 #include <stddef.h>
 #include <string.h>
+
 /**
  * struct listint_s - singly linked list
  * @n: integer
